@@ -1,0 +1,15 @@
+body{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color:aqua;
+font-size: 13px;
+}
+
+input{
+width: 450px;
+color:aqua;
+}
+
+button{
+    background-color:aqua;
+    color:white;
+}
